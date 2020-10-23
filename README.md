@@ -1,0 +1,1 @@
+This is the bubble sort algorithm implemented in Ruby as part of The Odin Project curriculum. 
